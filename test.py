@@ -6,7 +6,7 @@ import os, time
 import threading
 import time
 
-t="Hola amiga"
+t="Hola amiga, ¿Que tal?"
 tu=t.encode('utf-8')
 encoded = base64.b64encode(tu)
 #encode
